@@ -9,7 +9,7 @@
     --verde-claro: #6FC9C0;
     --verde-limao: #6FFF57;
     --botao-inativo: rgba(8, 74, 86, 0.5);
-    --text0-fundo: rgba(13, 105, 122, 0.3);
+    --texto-fundo: rgba(13, 105, 122, 0.3);
 }
 
 body{
@@ -17,4 +17,10 @@ body{
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
 
+}
+.conteudo-principal{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
