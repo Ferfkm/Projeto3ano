@@ -66,6 +66,6 @@ titulo-principal span{
     border-radius: 40px 0 0 0;
   }
   .botao:last-child{
-    border-radius: 0 0 0 40px;
+    border-radius: 0 40px 0 0;
   }
 }
